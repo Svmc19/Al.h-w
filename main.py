@@ -66,3 +66,8 @@
 # make_pair2 = 512124,215
 # lst2.extend(make_pair2)
 # print(lst2)
+
+lst = [1,-2,3,-4,10]
+for x in lst:
+    if x == x  x == -x:
+        print([x])
